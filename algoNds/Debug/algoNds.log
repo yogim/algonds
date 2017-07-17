@@ -1,0 +1,8 @@
+﻿  ArrayProb.cpp
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(60): error C2146: syntax error: missing ';' before identifier 'cout'
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(66): warning C4091: '': ignored on left of 'int' when no variable is declared
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(66): error C2059: syntax error: 'empty declaration'
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(66): error C2143: syntax error: missing ';' before ')'
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(68): error C2143: syntax error: missing ';' before '}'
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(68): error C2143: syntax error: missing ')' before '}'
+c:\users\yogesh\desktop\yogesh\projects\git project\c_project\algonds\algonds\arrayprob.cpp(68): error C2059: syntax error: '}'
